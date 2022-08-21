@@ -384,12 +384,12 @@ main>div>h1{
         margin-left: 20px;
         margin-right: 10px;
         border-radius: 50px;
-        font-size: 14px;
+        font-size: 20px;
     }
     .get{
         margin-right: 45px;
         border-radius: 50px;
-        font-size: 14px;
+        font-size: 20px;
     }
 }
 
@@ -414,12 +414,12 @@ main>div>h1{
         margin-left: 50px;
         margin-right: 10px;
         border-radius: 0px;
-        font-size: 2px;
+        font-size: 15px;
     }
     .get{
         margin-right: 45px;
         border-radius: 0px;
-        font-size: 2px;
+        font-size: 15px;
     }
     .button_type{
         padding: 0px;
