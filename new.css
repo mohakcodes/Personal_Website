@@ -243,11 +243,6 @@ main>div>h1{
   transition: all 0.2s ease-in;
 }
 
-
-
-
-
-
 /* media queries with their description */
 
 /* mq extras */
@@ -446,18 +441,17 @@ main>div>h1{
     .navbar_links{
         text-decoration: none;
         display: flex;
-        padding: 4px;
+        padding: 10px;
         margin-right: 20px;
     }
     .navbar_links a{
         text-decoration: none;
-        font-size: 14px;
+        font-size: 18px;
         color: black;
     }
     nav>ul>li{
         list-style-type: none;
         padding: 0px 10px;
-        padding-top: 5px;
     }
     #logo{
         width: 40px;
@@ -465,7 +459,6 @@ main>div>h1{
         padding: 3px;
     }
     #navbar_join_us{
-        padding-top: 4.5px;
         border-radius: 60px;
     }
     main{
@@ -473,12 +466,11 @@ main>div>h1{
     }
 }
 
-@media only screen and (max-width:450px){
+@media only screen and (max-width:520px){
     nav{
         display: flex;
         justify-content: space-between;
         background-color: rgb(255, 98, 0);
-        padding: 0px 0px;
     }
     nav>div{
         display: flex;
@@ -493,22 +485,20 @@ main>div>h1{
     }
     .navbar_links a{
         text-decoration: none;
-        font-size: 8px;
+        font-size: 17px;
     }
     nav>ul>li{
         list-style-type: none;
-        padding: 0px 4px;
-        padding-bottom: 3px;
+        padding: 0px 5px;
+        padding-top: 4px;
     }
     #logo{
-        width: 25px;
-        height: 20px;
-        padding: 0;
+        padding: 5px 0px;
     }
     #navbar_join_us{
-        padding-top: 0px;
-        padding-bottom: 1px;
+        padding-top: 5px;
         border-radius: 60px;
+        font-size: 16px;
     }
     #navbar_join_us a{
         color: rgb(255, 255, 255);
