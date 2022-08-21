@@ -98,7 +98,7 @@ main>div>h1{
     color: rgb(70, 3, 133);
     text-shadow: 2px 2px 10px rgb(186, 127, 242);
     text-align: center;
-    font-size: 35px;
+    font-size: 48px;
     font-weight: bold;
     margin: 25px 0px;
 }
@@ -279,19 +279,19 @@ main>div>h1{
 
 @media only screen and (max-width:950px){
     .ourfeatures>h1{
-        font-size: 20px;
+        font-size: 30px;
         padding: 5px 10px;
     }
     .whatweoffer>li{
         list-style-type: none;
-        font-size: 15px;
+        font-size: 20px;
     }
     .rightimg{
         padding: 10px 10px;
     }
 }
 
-@media only screen and (max-width:620px){
+@media only screen and (max-width:850px){
     .lastsection{
         display: block;
         text-align: center;
@@ -302,18 +302,18 @@ main>div>h1{
     .ourfeatures{
         margin: auto;
         padding: 0px 0px;
-        width: 50%;
+        width: 80%;
     }
     .ourfeatures>h1{
-        font-size: 15px;
+        font-size: 30px;
         padding: 0px 5px;
     }
     .whatweoffer>li{
         list-style-type: none;
-        font-size: 5px;
+        font-size: 20px;
     }
     .whatweoffer{
-        padding: 2px 5px;
+        padding: 1px 5px;
     }
     .rightimg{
         padding-bottom: 0;
@@ -335,7 +335,7 @@ main>div>h1{
 }
 @media only screen and (max-width:480px){
     .threecols{
-        padding: 10px 0px;
+        padding: 40px 0px;
     }
 }
 
@@ -356,7 +356,7 @@ main>div>h1{
         margin: 0;
     }
     main>div>h1{
-        font-size: 32px;
+        font-size: 40px;
         margin: 8px 0px;
     }
     main>div>h3{
@@ -371,40 +371,40 @@ main>div>h1{
         margin-top: 3.5rem;
     }
     main>div>h1{
-        font-size: 20px;
+        font-size: 35px;
     }
     main>.content>p{
-        margin: 10px 0px;
-        font-size: 12px;
+        margin: 15px 0px;
+        font-size: 18px;
     }
     main>div>h3{
-        font-size: 12px;
+        font-size: 15px;
     }
     .try{
         margin-left: 20px;
         margin-right: 10px;
         border-radius: 50px;
-        font-size: 20px;
+        font-size: 17px;
     }
     .get{
         margin-right: 45px;
         border-radius: 50px;
-        font-size: 20px;
+        font-size: 17px;
     }
 }
 
 @media only screen and (max-width:425px){
     main>div>h3{
-        font-size: 9px;
+        font-size: 15px;
         margin-top: 0.5rem;
     }
     main>div>h1{
-        font-size: 14px;
+        font-size: 32px;
     }
     main>.content>p{
         margin: 5px 0px;
-        font-size: 9px;
-        padding: 0px 20px;
+        font-size: 15px;
+        padding: 7px 20px;
     }
     div.content{
         padding: 0px;
@@ -422,7 +422,7 @@ main>div>h1{
         font-size: 15px;
     }
     .button_type{
-        padding: 0px;
+        padding: 5px 0px;
     }
     .button_type>p{
         padding: 2px 15px;
